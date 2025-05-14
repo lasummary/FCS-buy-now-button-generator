@@ -1,0 +1,8 @@
+theme: minima
+
+# （可选但推荐）根据你的APP信息更新这些：
+title: Custom Buy It Now Button - Enhance Your Checkout Experience
+author: FCStools
+description: "Replace the default dynamic checkout buttons with a single, clear 'Buy it now' button for Shopify product pages. Simplify the checkout process for your customers."
+# email: la.summary@outlook.com # 如果 minima 主题支持并希望显示
+# github_username: YourGitHubUsername   # 如果 minima 主题支持并希望显示
