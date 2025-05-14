@@ -1,12 +1,10 @@
 ---
-# 这个是 "Front Matter"，可以为空，也可以用来覆盖主题的一些设置
-# layout: default # minima 主题的默认布局，通常不需要特别指定
-title: Custom Buy It Now Button - Enhance Your Checkout Experience
+FCS buy now button generator - Enhance Your Checkout Experience
 ---
 
-![Custom Buy It Now Button Logo](images/applogo.png) {#logo-style} <!-- 你可能需要用 CSS 来控制这个 logo 的样式 -->
+![FCS buy now button generator Logo](images/applogo.png) {#logo-style} <!-- 你可能需要用 CSS 来控制这个 logo 的样式 -->
 
-# Custom Buy It Now Button
+# FCS buy now button generator
 Replace the default dynamic checkout buttons with a single, clear "Buy it now" button.
 
 ## About this APP
@@ -25,7 +23,7 @@ This app solves the problem of crowded product pages and potentially confusing m
 ![After app installed](images/after.png)
 
 ## Ready to simplify your checkout?
-Install "Custom Buy It Now Button" today!
+Install "FCS buy now button generator" today!
 
 [Get The App on Shopify App Store](【你的APP在Shopify应用商店的链接】){: .cta-button} <!-- 你可能需要为 .cta-button 在主题的 CSS 或自定义 CSS 中添加样式 -->
 
