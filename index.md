@@ -4,8 +4,6 @@ FCS buy now button generator - Enhance Your Checkout Experience
 
 ![FCS buy now button generator Logo](images/applogo.png) {#logo-style} <!-- 你可能需要用 CSS 来控制这个 logo 的样式 -->
 
-# FCS buy now button generator
-Replace the default dynamic checkout buttons with a single, clear "Buy it now" button.
 
 ## About this APP
 This app solves the problem of crowded product pages and potentially confusing multiple payment options by providing a single, clear "Buy it now" button. It allows merchants to effectively replace the default dynamic checkout buttons and the "More payment options" link. Instead of presenting multiple express checkout options upfront, customers are directed straight from the product page to a unified checkout experience when clicking your dedicated button.
